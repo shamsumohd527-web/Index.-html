@@ -1,25 +1,48 @@
-# create-repository
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Abdul flux fx </title>
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background-color: Blue;
+    }
+    header {
+      background: #0a74da;
+      color: white;
+      padding: 20px;
+    }
+    section {
+      padding: 20px;
+    }
+    button {
+      background: #0a74da;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+  </style>
+</head>
 
-Easily set up a new github repository. Reads the name/description from the package.json file if it's present. Sets origin upstream if it's not already set.
+<body>
 
-```
-npm install create-repository -g
-```
+<header>
+  <h1>Make free money online </h1>
+  <p>Online business professional </p>
+</header>
 
-## Usage
+<section>
+  <h2>Costumers always come first</h2>
+  <p>https://www.youtube.com/@Abdulfluxfx</p>
+</section>
 
-`create-repository` will try to read `package.json` and use the name and description properties.
+<section>
+  <h2>08168816281</h2>
+  <p>Email: Shamoabdulrahman57@gmail.com</p>
+  <button>Contact Us</button>
+</section>
 
-```
-$ create-repository
-```
-
-You can also pass values for name and description.
-
-```
-$ create-repository --name my-new-project --description "That's all I have to say about that"
-```
-
-## License
-
-MIT
+</body>
+</html>
