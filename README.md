@@ -34,7 +34,8 @@
 </header>
 
 <section>
-  <h2>Costumers always come first</h2>
+  <h2>Costumers always come first
+Me and my brother Muhammad Kabir created it</h2>
   <p>https://www.youtube.com/@Abdulfluxfx</p>
 </section>
 
